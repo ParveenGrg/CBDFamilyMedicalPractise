@@ -1,6 +1,6 @@
 ## Billing Application
 
-a program to create a “Billing Application” for a GP service in Sydney. ‘CBD family medical practise’ is a well-known GP service aro und city CBD area. They cover services like General practitioner service, pathology, eye check-up and dental.
+A java program “Billing Application” for a GP service in Sydney. ‘CBD family medical practise’ is a well-known GP service aro und city CBD area. They cover services like General practitioner service, pathology, eye check-up and dental.
 
 ## Folder Structure
 
