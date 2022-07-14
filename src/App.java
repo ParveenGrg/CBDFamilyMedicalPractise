@@ -518,7 +518,7 @@ public class App {
             System.out.println("Do you want to repeat for another customer? (Type yes/no)");
             repeat = input.next();
 
-            if (repeat == "no") {
+            if (repeat.equals("No")) {
                 System.exit(0);
             }
         }
